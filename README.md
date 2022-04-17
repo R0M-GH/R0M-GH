@@ -1,4 +1,6 @@
 ### Hi there 👋
+- 🔭 I’m currently working on APCS homework 💀
+- 🌱 I’m currently learning data structures, java, machine learning, python, data science, and computer microarchitecture.
 
 <!--
 **R0M-GH/R0M-GH** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
